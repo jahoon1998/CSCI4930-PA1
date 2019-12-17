@@ -1,5 +1,6 @@
 ## Feb 21 2019
-# CSCI 4930/5930 Machine Learning Programming Assignment 1: Predicting Newborn’s Weight
+# CSCI 4930/5930 Machine Learning 
+# Programming Assignment 1: Predicting Newborn’s Weight
 
 Quote from the WebMD article [1]:
 “A new baby's gender, name, time of birth, and birth weight are nice information for a birth
